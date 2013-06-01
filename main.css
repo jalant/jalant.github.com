@@ -91,25 +91,26 @@ body {
 }
 
 #about_me {
-	padding-top: 500px;
+	padding-top: 200px;
 	height:1000px;
 	width:2300px;
-	padding-bottom: 500px;
 	background-color: red;
 	color:white;
 	background-image: url('https://sphotos-b.xx.fbcdn.net/hphotos-ash4/425877_3872124421088_1939881618_n.jpg');
 	background-repeat: no-repeat;
-	background-size: 2300px 2000px;
-	opacity: 2;
+	background-size: 2300px 1300px;
+	opacity: 1;
+	padding-bottom: 100px;
 }
 
 #welcome {
 
 	font-size: 150px;
 	font-family: "Pompiere";
-	color: #19467b;
-	padding-top: 100px;
-	padding-bottom: 30px;
+	color: white;
+	padding-bottom: 100px;
+	
+	/*#152561*/
 
 }
 
@@ -119,14 +120,14 @@ body {
 
 .wharton{
 	height: auto;
-	width: 400px;
+	width: 300px;
 	border-radius: 15px;
 	margin-bottom: 10px;
 
 }
 .prof_pic {
 	height: auto;
-	width: 15%;
+	width: 12%;
 	border-radius: 10px;
 
 	margin-bottom: 50px;
@@ -166,7 +167,7 @@ text-shadow: 0 1px 0 #ffffff;
 html{
 
 	width: 2300px;
-	height: 2100px;
+	height: 1000px;
 	margin: auto;
 }
 
