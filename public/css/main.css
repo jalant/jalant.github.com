@@ -1,0 +1,316 @@
+#section-2, #section-4, #section-6, #section-8, #section-9{
+	background-color: #efefef;
+	background-image: url("../../images/fabric_of_squares_gray_@2X.png");
+}
+
+#section-0{	
+/*	background-image: url("https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/944226_10200904914117621_2025987229_n.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #252f5b;
+*/
+	text-align: center;
+	background-color: #efefef;
+	background-image: url("../../images/fabric_of_squares_gray_@2X.png");
+
+}
+
+#section-1{
+	background-image: url("http://www.layoverguide.com/wp-content/uploads/2010/10/Jakarta-skyline-Indonesia.jpg");
+	background-size: cover;
+}
+
+#section-3{
+	background-image: url("http://wtfoto.net/images/20120914062718_singapore-skyline-marina-bay-flyer-hdr-dawn.jpg");
+	background-size: cover;	
+}
+
+#section-5{
+	background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a9/Philadelphia_skyline_from_south_street_bridge.jpg");
+	background-size: cover;
+}
+
+#section-7{	
+	background-image: url("../../images/new_york.jpg");
+	background-size: cover;
+}
+
+.heading{
+	width:100%;
+	height: 100px;
+	border: 7px solid #165F8C;
+	background-color: #F2D8C2;
+	position: absolute;
+	bottom: 0px;
+	color: #F23E16;
+	text-align: center;
+	font-size: 30px;
+}
+
+.step{
+	text-align: center;
+	padding-top: 250px;
+	color: #F23E16;
+	font-size: 30px;
+}
+
+.part2{
+	text-align: center;
+	color: #1C8DA6;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#main_heading{
+	width: 100%;
+	height: 100px;
+	background-color: #F2D8C2;
+	border: 7px solid #F2836B;
+	color: #F23E16;
+	text-align: center;
+	font-size: 30px;
+	/*position: fixed;
+	top: 0px;*/
+}
+
+#name{
+	font-size: 220px;
+	padding:0px;
+	margin: 0px;
+	padding-top: 250px;
+}
+
+#name2{
+	font-size: 100px;
+
+}
+
+#role{
+	font-size: 20px;
+}
+
+a:link {
+	text-decoration:none;
+	color: black;
+}
+
+a:visited {
+	text-decoration:none;
+	color: black;
+}
+
+a:hover {
+	text-decoration:none;
+	color: #F23E16;
+}
+a:active {text-decoration:none;}
+
+#journey{
+	width:100%;
+	text-align: center;
+	display: block;
+	padding-top: 30px;
+	
+}
+
+#projects{
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding-top: 5px;
+}
+
+#surname{
+	display: inline-block;
+	color: black;
+    -webkit-transition: all 2s;
+	-moz-transition: all 2s;
+	-o-transition: all 2s;
+	transition: all 2s;
+}
+
+#surname:hover{
+	color: #F23E16;
+	-moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);   
+}
+
+#firstname{
+	display: inline-block;
+	color: #F23E16;
+	-moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg); 
+    -webkit-transition: all 2s;
+	-moz-transition: all 2s;
+	-o-transition: all 2s;
+	transition: all 2s;
+}
+
+#firstname:hover{
+	color: black;
+	-moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);   
+}
+
+.sample1{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/stoopendous.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.sample1:hover{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/stoopendous.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 10px;
+}
+
+
+.sample2{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/ace_office.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.sample2:hover{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/ace_office.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 10px;
+}
+
+
+.sample3{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/to-do.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.sample3:hover{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	margin: 5px;
+	background-image: url("../../images/to-do.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 10px;
+}
+
+
+.sample4{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	/*border: 5px solid black;*/
+	margin: 5px;
+	background-image: url("../../images/flikr.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.sample4:hover{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	/*border: 5px solid black;*/
+	margin: 5px;
+	background-image: url("../../images/flikr.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 10px;
+}
+
+.sample5{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	/*border: 5px solid black;*/
+	margin: 5px;
+	background-image: url("../../images/cookbook.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.sample5:hover{
+	display: inline-block;
+	width:25%;
+	height:350px;
+	/*border: 5px solid black;*/
+	margin: 5px;
+	background-image: url("../../images/cookbook.png");
+	background-size: cover;
+	color: #F23E16;
+	font-size: 30px;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 10px;
+}
+
+#sample_container{
+	padding:100px;
+	text-align: center;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+.step{
+	padding-top: 150px;
+}
