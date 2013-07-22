@@ -1,6 +1,11 @@
-#section-2, #section-4, #section-6, #section-8, #section-9{
+#section-2, #section-4, #section-6, #section-8{
 	background-color: #efefef;
 	background-image: url("../../images/fabric_of_squares_gray_@2X.png");
+}
+
+#section-9{
+	background-color: #efefef;
+	background-image: url("../../images/grey_wash_wall_@2X.png");
 }
 
 #section-0{	
